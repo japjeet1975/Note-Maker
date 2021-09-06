@@ -1,0 +1,26 @@
+{
+  "name": "assignment11",
+  "version": "1.0.0",
+  "description": "Assignment11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "epository": {
+    "type": "git",
+    "url": "git+https://github.com/japjeet1975/assignment11.git"
+  },
+  "keywords": [
+    "Assignment11"
+  ],
+  "author": "Japjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japjeet1975/assignment11/issues"
+  },
+  "homepage": "https://github.com/japjeet1975/assignment11#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2"
+  }
+}
